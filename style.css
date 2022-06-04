@@ -336,6 +336,8 @@ footer{
     padding: 8px;
 }
 /*#Footer*/
+
+
 @media (max-width: 1056px) {
     .block-left, .block-right, .about-product-left, .about-product-right, .product-plus__description {
         justify-content: center;
@@ -352,7 +354,7 @@ footer{
     }
 
     .reviews-img {
-        width: 10%;
+        /*width: 10%;*/
     }
 
     .buy-list {
